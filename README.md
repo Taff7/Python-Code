@@ -1,2 +1,1 @@
-# Python-Code
-My Journey Learning Python
+print ("Hello World")
